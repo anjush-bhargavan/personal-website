@@ -91,7 +91,7 @@ img {
 }
 
 .bg-secondary {
-    background-color: #ffc900 !important;
+    background-color: #0b8eda !important;
 }
 
 button:focus {
@@ -123,7 +123,7 @@ button:focus {
 
 .cube1,
 .cube2 {
-    background-color: #ffc900;
+    background-color: #0b8eda;
     width: 25px;
     height: 25px;
     position: absolute;
@@ -210,7 +210,7 @@ button:focus {
 .section-title h2:before {
     left: auto;
     right: 50%;
-    background-color: #ffc900
+    background-color: #0b8eda
 }
 
 /*::::::::::::::::::::::::::::::::::::
@@ -232,7 +232,7 @@ button:focus {
 
 .navbar-expand-lg .navbar-nav .nav-link:hover,
 .navbar-expand-lg .navbar-nav .nav-link.active {
-    color: #ffc900;
+    color: #0b8eda;
 }
 
 /*::::::::::::::::::::::::::::::::::::
@@ -257,7 +257,7 @@ button:focus {
     bottom: 0;
     width: 50%;
     height: 100%;
-    background-color: #ffc900;
+    background-color: #0b8eda;
     opacity: .8;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
     z-index: 2;
@@ -346,7 +346,7 @@ button:focus {
     position: relative;
     background-size: cover;
     background-position: center;
-    background-color: #ffc900;
+    background-color: #0b8eda;
 }
 
 .social-aria a {
@@ -389,7 +389,7 @@ button:focus {
 }
 
 .about-content h2 span {
-    color: #ffc900;
+    color: #0b8eda;
     font-size: 100%;
 }
 
@@ -439,7 +439,7 @@ button:focus {
 .skillbar-bar {
     height: 35px;
     width: 0px;
-    background-color: #ffc900;
+    background-color: #0b8eda;
 }
 
 .skill-bar-percent {
@@ -466,7 +466,7 @@ button:focus {
 }
 
 .service-area:before {
-    background-color: #ffc900;
+    background-color: #0b8eda;
     position: absolute;
     content: '';
     width: 100%;
@@ -482,7 +482,7 @@ button:focus {
 .single-service {
     background-color: #fff;
     padding: 15px;
-    border: 1px solid #ffc900;
+    border: 1px solid #0b8eda;
     -webkit-transition: .3s;
     transition: .3s;
     margin-bottom: 30px;
@@ -520,7 +520,7 @@ button:focus {
 
 .service-icon {
     font-size: 50px;
-    color: #ffc900;
+    color: #0b8eda;
 }
 
 
@@ -554,8 +554,8 @@ button:focus {
 .work-list ul li.filter.active,
 .work-list ul li:hover {
     color: #000;
-    background-color: #ffc900;
-    border-color: #ffc900;
+    background-color: #0b8eda;
+    border-color: #0b8eda;
 }
 
 .row.portfolio .col-lg-4 {
@@ -749,7 +749,7 @@ input:-webkit-autofill {
 
 .form-btn .button:hover {
     color: #000;
-    background-color: #ffc900;
+    background-color: #0b8eda;
 }
 
 .form-message {
@@ -773,7 +773,7 @@ input:-webkit-autofill {
 .footer-area {
     padding: 30px;
     background-color: #000;
-    border-bottom: 5px solid #ffc900;
+    border-bottom: 5px solid #0b8eda;
 }
 
 .copyright-text a {
@@ -783,5 +783,5 @@ input:-webkit-autofill {
 }
 
 .copyright-text a:hover {
-    color: #ffc900;
+    color: #0b8eda;
 }
